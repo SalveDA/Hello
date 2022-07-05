@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 My certificates
 ![1](https://github.com/SalveDA/Hello/blob/main/Google_sheets.png)
+
+![2](https://github.com/SalveDA/Hello/blob/main/SQL.png)
