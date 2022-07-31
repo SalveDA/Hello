@@ -14,3 +14,17 @@ My certificates
 ![1](https://github.com/SalveDA/Hello/blob/main/Google_sheets.png)
 
 ![2](https://github.com/SalveDA/Hello/blob/main/SQL.png)
+
+### Hi there 👋, I’m Ekaterina
+#### I am interested in Data Analytics and Power BI
+![I am interested in Data Analytics and Power BI](https://github.com/SalveDA/Hello/blob/main/hero-banner.jpg)
+
+I am looking for cooperation with companies and people who specialize in digitalization, automation and audit of digital data and BI analytics
+
+Skills: Power BI / DAX / Tableau / SQL
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@SalveDA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/ekaterina-salova-4b4374244)  
+
+
