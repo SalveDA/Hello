@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Ekaterina
+### **Hi there 👋, I’m Ekaterina**
 #### I am interested in Data Analytics and Power BI
 ![I am interested in Data Analytics and Power BI](https://github.com/SalveDA/Hello/blob/main/hero-banner.jpg)
 
