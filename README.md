@@ -1,3 +1,4 @@
+<h1 align="center">Hi there 👋, I’m Ekaterina</a> 
 ### Hi there 👋, I’m Ekaterina
 #### I am interested in Data Analytics and Power BI
 ![I am interested in Data Analytics and Power BI](https://github.com/SalveDA/Hello/blob/main/hero-banner.jpg)
