@@ -12,7 +12,7 @@ I am looking for cooperation with companies and people who specialize in digital
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'> @SalveDA
 
-![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' height='20') @SalveDA
+![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg') height='20' @SalveDA
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'>  ekaterina_flsp@mail.ru
 
