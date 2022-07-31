@@ -12,9 +12,11 @@ I am looking for cooperation with companies and people who specialize in digital
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'> @SalveDA
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>  ekaterina_flsp@mail.ru
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' height='20'> @SalveDA
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> www.linkedin.com/in/ekaterina-salova-4b4374244
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'>  ekaterina_flsp@mail.ru
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> www.linkedin.com/in/ekaterina-salova-4b4374244
 
 
 <!---
