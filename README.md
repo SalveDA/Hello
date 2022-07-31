@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I’m Ekaterina</a>
 
-### Hi there 👋, I’m Ekaterina
+
 #### I am interested in Data Analytics and Power BI
 ![I am interested in Data Analytics and Power BI](https://github.com/SalveDA/Hello/blob/main/hero-banner.jpg)
 
 I am looking for cooperation with companies and people who specialize in digitalization, automation and audit of digital data and BI analytics
 
-Skills: Power BI / DAX / Tableau / SQL
+**My skills**: Power BI / DAX / Tableau / SQL
 
 
 
@@ -19,7 +19,8 @@ SalveDA/SalveDA is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-My certificates
+<h1 align="center">My certificates</a>
+
 ![1](https://github.com/SalveDA/Hello/blob/main/Google_sheets.png)
 
 ![2](https://github.com/SalveDA/Hello/blob/main/SQL.png)
