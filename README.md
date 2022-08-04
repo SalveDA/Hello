@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 
 ####
 
-![GooglSheets](https://github.com/SalveDA/Hello/blob/main/Google_sheets.png)
+![GoogleSheets](https://github.com/SalveDA/Hello/blob/main/Google_sheets.png)
 
 ![SQL](https://github.com/SalveDA/Hello/blob/main/SQL.png)
 
-![PowerBI](https://github.com/SalveDA/Hello/blob/main/Ekaterina%20Salova.pdf)
+![PowerBI](https://github.com/SalveDA/Hello/blob/main/Power_BI.png)
 
