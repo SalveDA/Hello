@@ -38,3 +38,4 @@ You can click the Preview link to take a look at your changes.
 
 ![PowerBI](https://github.com/SalveDA/Hello/blob/main/Power_BI.png)
 
+![Hackathon](https://github.com/SalveDA/Hello/blob/main/Хакатон%20Теплица.png)
