@@ -41,3 +41,5 @@ You can click the Preview link to take a look at your changes.
 ![Hackathon](https://github.com/SalveDA/Hello/blob/main/Хакатон%20Теплица.png)
 
 ![DAX&PQ](https://github.com/SalveDA/Hello/blob/main/Диплом%20DAX%20%26%20PQ.png)
+
+![DiplomaIBA](https://github.com/SalveDA/Hello/blob/main/Диплом%20IBA.png)
