@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 ![DiplomaIBA](https://github.com/SalveDA/Hello/blob/main/Диплом%20IBA.png)
 
-![DiplomaIBA]()
+![DiplomaIBA](https://github.com/SalveDA/Hello/blob/main/SQL_stepik-1.png)
