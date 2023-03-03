@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I’m Ekaterina</a>
 
 
-#### I am interested in Data Analytics and Power BI
 ![I am interested in Data Analytics and Power BI](https://github.com/SalveDA/Hello/blob/main/hero-banner.jpg)
 
-I am looking for cooperation with companies and people who specialize in digitalization, automation and audit of digital data and BI analytics
-
+Hello, I am a BI analyst with experience in data analysis and report creation in Power BI. I am skilled in working with various data sources, building visualizations, and creating dashboards for easy information presentation. Additionally, I have experience working with programming languages such as DAX and SQL. In this repository, I plan to share my projects, report and dashboard examples, as well as various techniques and tools I use in my work. I welcome feedback and collaboration!
 **My skills**: Power BI / DAX / Tableau / SQL
 
 **My contacts:**
